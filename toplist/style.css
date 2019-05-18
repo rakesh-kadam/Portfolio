@@ -1,0 +1,19 @@
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+
+.h1{
+    padding: 1.5%;
+   /* border: 1.5% */
+}
+
+.screenshot{
+    padding: 1.5%;
+    /*border: 1.5% */
+}
+
+.description{
+    padding: 1.5%;
+    /*border: 1.5% */
+}
